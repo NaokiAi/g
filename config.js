@@ -3,20 +3,20 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6281393936306'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6281393936306']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'Wisnu OFC'
+global.noown = '6281393936306'
+global.namebot = 'Doro Bot'
+global.nobot = '19412824923'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
+global.github = 'https://github.com/Wisnu1110'
 global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
 global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = 'https://saweria.co/Kricom'
